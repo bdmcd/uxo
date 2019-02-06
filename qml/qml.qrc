@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>palette.qml</file>
+        <file>ViewLoader.qml</file>
+        <file>Program.qml</file>
+    </qresource>
+    <qresource prefix="/tutorial">
+        <file>Page1.qml</file>
+        <file>Page2.qml</file>
+        <file>Page6.qml</file>
+        <file>Page4.qml</file>
+        <file>Page5.qml</file>
+        <file>Page3.qml</file>
+        <file>Page9.qml</file>
+        <file>TutorialLayout.qml</file>
+        <file>Page7.qml</file>
+        <file>Page8.qml</file>
+    </qresource>
+    <qresource prefix="/components">
+        <file>ColoredImage.qml</file>
+        <file>X.qml</file>
+        <file>O.qml</file>
+        <file>Button.qml</file>
+        <file>Text.qml</file>
+        <file>LogoText.qml</file>
+        <file>TextBox.qml</file>
+        <file>SettingsButton.qml</file>
+        <file>Dialog.qml</file>
+        <file>SettingSwitch.qml</file>
+        <file>ScaleArea.qml</file>
+    </qresource>
+    <qresource prefix="/uxo">
+        <file>Game.qml</file>
+        <file>GameToolbar.qml</file>
+        <file>InnerBoard.qml</file>
+        <file>OuterBoard.qml</file>
+        <file>Square.qml</file>
+        <file>Stats.qml</file>
+    </qresource>
+    <qresource prefix="/views">
+        <file>View.qml</file>
+        <file>UXO.qml</file>
+        <file>Home.qml</file>
+        <file>NewGame.qml</file>
+        <file>Options.qml</file>
+        <file>Help.qml</file>
+        <file>Play.qml</file>
+    </qresource>
+    <qresource prefix="/gui">
+        <file>Toolbar.qml</file>
+        <file>DropdownMenu.qml</file>
+    </qresource>
+</RCC>

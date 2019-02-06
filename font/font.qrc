@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/font">
+        <file>GillSans-Bold.ttf</file>
+        <file>GillSans-BoldItalic.ttf</file>
+        <file>GillSans-Italic.ttf</file>
+        <file>GillSans-Light.ttf</file>
+        <file>GillSans-LightItalic.ttf</file>
+        <file>GillSans-SemiBold.ttf</file>
+        <file>GillSans-SemiBoldItalic.ttf</file>
+        <file>GillSans-UltraBold.ttf</file>
+        <file>GillSans.ttf</file>
+    </qresource>
+</RCC>

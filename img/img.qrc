@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>o.png</file>
+        <file>x.png</file>
+        <file>back.png</file>
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>paste.png</file>
+        <file>forward.png</file>
+        <file>tictactoe.png</file>
+        <file>exit.png</file>
+        <file>trash.png</file>
+    </qresource>
+</RCC>

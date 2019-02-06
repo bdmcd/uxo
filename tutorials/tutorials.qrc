@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/tutorials">
+        <file>corresponding.json</file>
+        <file>start.json</file>
+        <file>winGame.json</file>
+        <file>winBoard.json</file>
+        <file>alreadyWon.json</file>
+        <file>unless.json</file>
+    </qresource>
+</RCC>
